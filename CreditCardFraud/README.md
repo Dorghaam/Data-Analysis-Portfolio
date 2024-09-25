@@ -32,7 +32,7 @@ Once the data was cleaned, several SQL queries were written to address specific 
 5. **Fraud by Time of Day**:
    - Investigates which time of day (morning, afternoon, evening, night) is more prone to fraudulent transactions.
 
-The SQL queries used for this analysis are included in the `credotcardfraudproject1.sql` file.
+The SQL queries used for this analysis are included in the `CreditCardFraud.sql` file.
 
 ## Visualizations
 To better understand the data and present the findings, visualizations were created using both Tableau and Excel:
