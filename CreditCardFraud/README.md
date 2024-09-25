@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes credit card fraud data to uncover insights into fraudulent transactions. The data was cleaned and processed to remove null values before running SQL queries to answer specific questions about the distribution of fraud across states, transaction amounts, city populations, and time of day. The findings were then visualized using Tableau and Excel to provide a clear representation of the results.
 
+Excel File can be found here: https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
+
 ### Objectives:
 - Clean the data by removing null values from the initial dataset.
 - Write SQL queries to answer key questions about fraudulent transactions.
