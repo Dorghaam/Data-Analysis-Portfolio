@@ -3,8 +3,8 @@
 **Author:** Dorghaam Haidar  
 **Email:** Dorghaam.416@gmail.com
 
-## Overview
-This project investigates credit card fraud by analyzing transactional data across various dimensions, including fraud occurrence by state, day of the week, city population size, transaction amount, and time of day. The analysis was conducted using SQL queries to extract insights, and visualizations were generated using Tableau to display findings clearly.
+## Excel File can be found here: 
+https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
 
 ---
 
